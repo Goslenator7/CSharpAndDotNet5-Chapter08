@@ -1,0 +1,16 @@
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithDictionaries\bin\Debug\net5.0\WorkingWithDictionaries.exe
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithDictionaries\bin\Debug\net5.0\WorkingWithDictionaries.deps.json
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithDictionaries\bin\Debug\net5.0\WorkingWithDictionaries.runtimeconfig.json
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithDictionaries\bin\Debug\net5.0\WorkingWithDictionaries.runtimeconfig.dev.json
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithDictionaries\bin\Debug\net5.0\WorkingWithDictionaries.dll
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithDictionaries\bin\Debug\net5.0\ref\WorkingWithDictionaries.dll
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithDictionaries\bin\Debug\net5.0\WorkingWithDictionaries.pdb
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithDictionaries\obj\Debug\net5.0\WorkingWithDictionaries.csproj.AssemblyReference.cache
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithDictionaries\obj\Debug\net5.0\WorkingWithDictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithDictionaries\obj\Debug\net5.0\WorkingWithDictionaries.AssemblyInfoInputs.cache
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithDictionaries\obj\Debug\net5.0\WorkingWithDictionaries.AssemblyInfo.cs
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithDictionaries\obj\Debug\net5.0\WorkingWithDictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithDictionaries\obj\Debug\net5.0\WorkingWithDictionaries.dll
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithDictionaries\obj\Debug\net5.0\ref\WorkingWithDictionaries.dll
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithDictionaries\obj\Debug\net5.0\WorkingWithDictionaries.pdb
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithDictionaries\obj\Debug\net5.0\WorkingWithDictionaries.genruntimeconfig.cache
