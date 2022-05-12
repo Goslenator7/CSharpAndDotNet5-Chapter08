@@ -1,0 +1,16 @@
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.exe
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.deps.json
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.runtimeconfig.json
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.runtimeconfig.dev.json
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.dll
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithRanges\bin\Debug\net5.0\ref\WorkingWithRanges.dll
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.pdb
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.csproj.AssemblyReference.cache
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.AssemblyInfoInputs.cache
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.AssemblyInfo.cs
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.dll
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithRanges\obj\Debug\net5.0\ref\WorkingWithRanges.dll
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.pdb
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.genruntimeconfig.cache
