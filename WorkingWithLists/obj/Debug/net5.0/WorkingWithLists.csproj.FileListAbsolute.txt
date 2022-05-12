@@ -1,0 +1,16 @@
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithLists\bin\Debug\net5.0\WorkingWithLists.exe
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithLists\bin\Debug\net5.0\WorkingWithLists.deps.json
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithLists\bin\Debug\net5.0\WorkingWithLists.runtimeconfig.json
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithLists\bin\Debug\net5.0\WorkingWithLists.runtimeconfig.dev.json
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithLists\bin\Debug\net5.0\WorkingWithLists.dll
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithLists\bin\Debug\net5.0\ref\WorkingWithLists.dll
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithLists\bin\Debug\net5.0\WorkingWithLists.pdb
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.csproj.AssemblyReference.cache
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.AssemblyInfoInputs.cache
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.AssemblyInfo.cs
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.dll
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithLists\obj\Debug\net5.0\ref\WorkingWithLists.dll
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.pdb
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.genruntimeconfig.cache
