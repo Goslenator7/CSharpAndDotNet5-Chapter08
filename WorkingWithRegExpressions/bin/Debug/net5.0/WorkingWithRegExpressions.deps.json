@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WorkingWithRegExpressions/1.0.0": {
+        "runtime": {
+          "WorkingWithRegExpressions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WorkingWithRegExpressions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithRegExpressions\bin\Debug\net5.0\WorkingWithRegExpressions.exe
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithRegExpressions\bin\Debug\net5.0\WorkingWithRegExpressions.deps.json
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithRegExpressions\bin\Debug\net5.0\WorkingWithRegExpressions.runtimeconfig.json
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithRegExpressions\bin\Debug\net5.0\WorkingWithRegExpressions.runtimeconfig.dev.json
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithRegExpressions\bin\Debug\net5.0\WorkingWithRegExpressions.dll
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithRegExpressions\bin\Debug\net5.0\ref\WorkingWithRegExpressions.dll
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithRegExpressions\bin\Debug\net5.0\WorkingWithRegExpressions.pdb
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithRegExpressions\obj\Debug\net5.0\WorkingWithRegExpressions.csproj.AssemblyReference.cache
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithRegExpressions\obj\Debug\net5.0\WorkingWithRegExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithRegExpressions\obj\Debug\net5.0\WorkingWithRegExpressions.AssemblyInfoInputs.cache
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithRegExpressions\obj\Debug\net5.0\WorkingWithRegExpressions.AssemblyInfo.cs
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithRegExpressions\obj\Debug\net5.0\WorkingWithRegExpressions.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithRegExpressions\obj\Debug\net5.0\WorkingWithRegExpressions.dll
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithRegExpressions\obj\Debug\net5.0\ref\WorkingWithRegExpressions.dll
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithRegExpressions\obj\Debug\net5.0\WorkingWithRegExpressions.pdb
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter08\WorkingWithRegExpressions\obj\Debug\net5.0\WorkingWithRegExpressions.genruntimeconfig.cache
